@@ -7,7 +7,7 @@ Requesting acccess: Please reach out to Mahmoud Aman or Brent Mills if you are r
 **Teams**
 * **General Access Team**
   * All team members are added to this team. This provides the most broad ranging access to our GitHub org, including script + tool repositiories
-  * Signature Generator Team
+* **Signature Generator Team**
   * Limited access group for the Signature Generator repos tied to agency sites.
   
 **Sections**
