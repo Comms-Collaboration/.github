@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to the Comms and Collab Org. Here we have a variety of repos grouped into teams and sections.
+
+Teams:
+- Repo 2
+- 
+Sections:
+- Repo 1
+
 <!--
 
 **Here are some ideas to get you started:**
