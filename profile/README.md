@@ -4,7 +4,7 @@ Welcome to the Comms and Collab Org. Here we have a variety of repos grouped int
 
 Teams:
 - Repo 2
-- 
+  
 Sections:
 - Repo 1
 
