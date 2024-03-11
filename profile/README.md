@@ -1,23 +1,26 @@
-## Hi there 👋
+## Hi there Comms and Collaber 👋
 
 Welcome to the Comms and Collab Org. Here we have a variety of repos grouped into teams and sections.
 
-Teams:
-- Repo 2
+Requesting acccess: Please reach out to Mahmoud Aman or Brent Mills if you are restricted + need access to repos not provided by the General Access Team.
+
+**Teams**:
+- General Access Team
+-- All team members are added to this team. This provides the most broad ranging access to our GitHub org, including script + tool repositiories
+- Signature Generator Team
+-- Limited access group for the Signature Generator repos tied to agency sites.
   
-Sections:
-- Repo 1
+**Sections**:
+- Forked Repos
+-- [Box CLI](url)
+-- [GAM-Scripts3](url)
 
-<!--
+- **Signature Generator Repos**
+-- [signature-allison](url) (signature.allisonworldwide.com)
+-- [signature-teamenterprises](url) (signature.weareteam.com)
+-- [signature-wolfgang](url) (signature.wolfgang.global)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-Example: - Let's build out with actual content.
--->
+- **Script + Tool Repos**
+-- [oktaworkflows](url) (Related to Okta Workflows)
+-- [gamcalendarupdates](url) (Updating the primary GAM server calendar interop settings)
+-- [scriptsandbits](url) (Related to common tools for migrations + in general)
