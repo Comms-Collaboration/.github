@@ -2,7 +2,7 @@
 
 Welcome to the Comms and Collab Org. Here we have a variety of repos grouped into teams and sections.
 
-Requesting acccess: Please reach out to Mahmoud Aman or Brent Mills if you are restricted + need access to repos not provided by the General Access Team.
+Requesting acccess: Please reach out to [Mahmoud Aman](https://github.com/orgs/Comms-Collaboration/people/M00DY-DEV) or [Brent Mills](https://github.com/orgs/Comms-Collaboration/people/brentmills) if you are restricted + need access to repos not provided by the General Access Team.
 
 **Teams**
 * **General Access Team**
