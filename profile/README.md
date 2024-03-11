@@ -12,15 +12,15 @@ Requesting acccess: Please reach out to Mahmoud Aman or Brent Mills if you are r
   
 **Sections**
 * **Forked Repos**
-  * [Box CLI](url)
-  * [GAM-Scripts3](url)
+  * [Box CLI](https://github.com/Comms-Collaboration/boxcli)
+  * [GAM-Scripts3](https://github.com/Comms-Collaboration/GAM-Scripts3)
 
 **Signature Generator Repos**
-  * [signature-allison](url) (signature.allisonworldwide.com)
-  * [signature-teamenterprises](url) (signature.weareteam.com)
-  * [signature-wolfgang](url) (signature.wolfgang.global)
+  * [signature-allison](https://github.com/Comms-Collaboration/signature-allison) (signature.allisonworldwide.com)
+  * [signature-teamenterprises](https://github.com/Comms-Collaboration/signature-teamenterprises) (signature.weareteam.com)
+  * [signature-wolfgang](https://github.com/Comms-Collaboration/signature-wolfgang) (signature.wolfgang.global)
 
 **Script + Tool Repos**
-  * [oktaworkflows](url) (Related to Okta Workflows)
-  * [gamcalendarupdates](url) (Updating the primary GAM server calendar interop settings)
-  * [scriptsandbits](url) (Related to common tools for migrations + in general)
+  * [oktaworkflows](https://github.com/Comms-Collaboration/oktaworkflows) (Related to Okta Workflows)
+  * [gamcalendarupdates](https://github.com/Comms-Collaboration/gamcalendarupdates) (Updating the primary GAM server calendar interop settings)
+  * [scriptsandbits](https://github.com/Comms-Collaboration/scriptsandbits) (Related to common tools for migrations + in general)
