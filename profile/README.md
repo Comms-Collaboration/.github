@@ -20,6 +20,7 @@
   * [signature-wolfgang](https://github.com/Comms-Collaboration/signature-wolfgang) (signature.wolfgang.global)
   * [signature-weareteam](https://github.com/Comms-Collaboration/signature-weareteam) (signature.weareteam.com)
   * [signature-assemblyglobal](https://github.com/Comms-Collaboration/signature-assemblyglobal) (signature.assemblyglobal.com)
+  * [signature-goodstuff] (https://github.com/Comms-Collaboration/signature-goodstuff) (signature.goodstuff.co.uk) - Not connected to DNS yet
    
 **Script + Tool Repos**
   * [oktaworkflows](https://github.com/Comms-Collaboration/oktaworkflows) (Related to Okta Workflows)
