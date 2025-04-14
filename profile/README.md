@@ -21,7 +21,6 @@
   * [signature-weareteam](https://github.com/Comms-Collaboration/signature-weareteam) (signature.weareteam.com)
   * [signature-assemblyglobal](https://github.com/Comms-Collaboration/signature-assemblyglobal) (signature.assemblyglobal.com)
   * [signature-goodstuff](https://github.com/Comms-Collaboration/signature-goodstuff) (signature.goodstuff.co.uk)
-
   * [signature-v2-us](https://github.com/Comms-Collaboration/signature-v2-us) (Version 2 US Based template)
   * [signature-v2-uk](https://github.com/Comms-Collaboration/signature-v2-uk) (Version 2 UK Based template)
    
