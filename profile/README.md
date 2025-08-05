@@ -28,3 +28,6 @@
   * [oktaworkflows](https://github.com/Comms-Collaboration/oktaworkflows) (Related to Okta Workflows)
   * [gamcalendarupdates](https://github.com/Comms-Collaboration/gamcalendarupdates) (Updating the primary GAM server calendar interop settings)
   * [scriptsandbits](https://github.com/Comms-Collaboration/scriptsandbits) (Related to common tools for migrations + in general)
+
+**Hubspot Related Repos**
+ * [hubspot-import] (https://github.com/Comms-Collaboration/hubspot-import) (Related to Hubspot contact list imports for Mark Penn emails
