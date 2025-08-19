@@ -23,7 +23,7 @@
   * [signature-goodstuff](https://github.com/Comms-Collaboration/signature-goodstuff) (signature.goodstuff.co.uk)
   * [signature-v2-us](https://github.com/Comms-Collaboration/signature-v2-us) (Version 2 US Based template)
   * [signature-v2-uk](https://github.com/Comms-Collaboration/signature-v2-uk) (Version 2 UK Based template)
-  * [signature-v3-combined] (https://github.com/Comms-Collaboration/signature-v3-combined) (Version 3 Combined Template - Stagwell Focused)
+  * [signature-v3-combined](https://github.com/Comms-Collaboration/signature-v3-combined) (Version 3 Combined Template - Stagwell Focused)
    
 **Script + Tool Repos**
   * [oktaworkflows](https://github.com/Comms-Collaboration/oktaworkflows) (Related to Okta Workflows)
