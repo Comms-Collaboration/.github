@@ -31,4 +31,4 @@
   * [scriptsandbits](https://github.com/Comms-Collaboration/scriptsandbits) (Related to common tools for migrations + in general)
 
 **Hubspot Related Repos**
- * [hubspot-import](https://github.com/Comms-Collaboration/hubspot-import) (Related to Hubspot contact list imports for Mark Penn emails
+ * [hubspot-import](https://github.com/Comms-Collaboration/hubspot-import) (Related to Hubspot contact list imports for Mark Penn emails)
