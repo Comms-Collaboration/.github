@@ -32,3 +32,6 @@
 
 **Hubspot Related Repos**
  * [hubspot-import](https://github.com/Comms-Collaboration/hubspot-import) (Related to Hubspot contact list imports for Mark Penn emails)
+
+**Box Related Repos**
+ * [box-folder-group-automation](https://github.com/Comms-Collaboration/box-folder-group-automation) (Related to automated Box groups applications and permissions to Box Relay created folders)
